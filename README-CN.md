@@ -166,6 +166,7 @@ npm run build
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet_logo.png" /> | SportBet | First decentralized sportsbook on EOS blockchain | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/sportbet.png" /> | https://sportbet.one?r=supereospark | game | sportbet | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/prospectors_logo.png" /> | Prospectors | Massive Multiplayer Online Real-Time Economic Strategy Game, MINE GOLD - BUILD YOUR WORLD | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/prospectors.png" /> | https://prospectors.io?ref=supereospark | game | prospectors | 
 | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mytoken_best_logo.png" /> | EOS Premium Accounts | Register .win .ca .en .pro .biz .best ...  and free accounts. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/mytoken_best.png" /> | https://mytoken.best/?ref=eospark | entertainment | mytoken_best | 
+| <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/eosswap_logo.png" /> | EOSSWAP | Flexible Decentralized OTC exchange of eosio tokens. | <img src="https://raw.githubusercontent.com/BlockABC/eospark-cooperation/master/dapps/img/eosswap.png" /> | https://eosswap.io/?ref=eospark | exchange | eosswap | 
 
 <!-- dapp_list_end -->
 

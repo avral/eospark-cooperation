@@ -483,5 +483,17 @@
       "link":"https://mytoken.best/zh/?ref=eospark",
       "description":"注冊 .win .pro .biz .en .ca .best ... 靚號，批量注冊免費賬戶。"
     }
+  },
+  {
+    "gaTag":"eosswap",
+    "categoriy":"exchange",
+    "link":"https://eosswap.io/?ref=eospark",
+    "logo":"eosswap_logo.png",
+    "preview":"eosswap.png",
+    "title":"EOSSWAP",
+    "description":"Flexible Decentralized OTC exchange of eosio tokens.",
+    "ru":{
+      "description":"Гибкий, децентрализованный, внебиржевой обмен токенами EOSIO"
+    }
   }
 ]
